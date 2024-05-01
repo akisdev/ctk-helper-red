@@ -38,7 +38,7 @@ const COLORS = {
   orange: '#D17D00',
   purple: '#43005C',
   blue: '#000860',
-  lightblue: '#F60002',
+  lightblue: '#800000',
   yellow: '#8f8f00',
   grey: '#1d1d26',
 }
